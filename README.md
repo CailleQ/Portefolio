@@ -1,15 +1,15 @@
 # 📋 Haoran MA - **Portefolio**
 
-| **Nom**                   | Haoran MA                                                                                                                                                                            |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Identifiant Étudiant**  | 22020919                                                                                                                                                                             |
-| ------------------------- | ---------------------------                                                                                                                                                          |
-| **Formation**             | Paris Saclay University<br>IUT D'Orsay(bachelor)<br>Informatique<br>2021-2024                                                                                                        |
-| **Soft Skills:**          | <br>- Wireframe Creation<br>- Computer Literacy<br>                                                                                                                                  |
-| **Hard Skills:**          | <br>- Web Design<br>- Docker et Kubernetes<br>- Automation et Scripting<br>- Front End Coding<br>- Connaissance des langages de programmation<br>- Connaissance sur Linux et Windows |
-| **coordonner**            | - [Photo de moi](./Haoran_MA.jpg) <br>- Adresse de courriel: haoran.ma@universite-paris-saclay.fr <br>- telephone: +33 0659617960/+86 18652519051                                    |
+| **Nom**                  | Haoran MA                                                                                                                                                                            |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Identifiant Étudiant** | 22020919                                                                                                                                                                             |
+| **Language**             | -Chineses<br>-English<br>-Français                                                                                                                                                   |
+| **Formation**            | Paris Saclay University<br>IUT D'Orsay(bachelor)<br>Informatique<br>2021-2024                                                                                                        |
+| **Soft Skills:**         | -Problem-Solving<br>-Design Thinking<br>- Wireframe Creation<br>- Computer Literacy<br>                                                                                              |
+| **Hard Skills:**         | <br>- Web Design<br>- Docker et Kubernetes<br>- Automation et Scripting<br>- Front End Coding<br>- Connaissance des langages de programmation<br>- Connaissance sur Linux et Windows |
+| **coordonner**           | - [Photo de moi](./Haoran_MA.jpg) <br>- Adresse de courriel: haoran.ma@universite-paris-saclay.fr / m2954687470@gmail.com<br>- telephone: +33 0659617960/+86 18652519051             |
 
-## Experience/Projets/Stages
+## 🔨Experience/Projets/Stages
 
 | Title                       |    Date/Durée    | Establishment/Entreprise | description                                                                                                                                                                                                                             |
 | --------------------------- | :--------------: | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -19,18 +19,19 @@
 | Projets individuels         |   2023.03-Now    | Demo de jeux             | -Outil UnityHub et Visual Studio<br>-programme par Langage C#<br>-Les resources gratuit sur internet(Images pixels)<br>-Jeux Design et UI Design<br>-[Lien de demo](https://github.com/CailleQ/Heartless-Demo)                          |
 | Projet scolaire 2023 S5     |    2023.09-11    | IUT d'Orsay              | -Créer un site web avec le framework Django<br>-Gestion et maintenance des fichiers de base de données SQL locaux avec Django et Python3<br>-Gérer l'avancement avec GitLab<br>-GitLab : https://git.iut-orsay.fr/MAHaoran/webpizza.git |
 
-## TODO
+## ⭐Ma passion
 
-TODO
-
-## TODO
-
-- [ ] TODO
-- [ ] TODO
+- [ ] Cuisine
+- [ ] Musique
+- [ ] Jeux vidéo
+- [ ] Technique
 
 <!--
+
 # Haoran MA - **Portefolio**
-提前 🌱 | 进行中 🔨 | 已完成 ⭐  |
+
+提前 🌱 | 进行中 🔨 | 已完成 ⭐ |
+
 <div >
     <img src="./Haoran_MA.jpg" alt="moi" width="150" style="float: left;"/>
 
@@ -44,4 +45,4 @@ TODO
 **Nom** : MA
 **Identifiant etudiant** : 22020919
 
- -->
+-->
